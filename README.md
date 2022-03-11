@@ -1,3 +1,4 @@
+# Bio
 - Hi, I’m @ballads2110
 - I’m interested in Software Engineering.
 - I’m currently learning C#, Python, OSSU's CS Course
