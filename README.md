@@ -1,7 +1,7 @@
 # Bio
 - Hi, I’m @ballads2110
-- I’m interested in Software Engineering.
-- I’m currently learning C#, Python, OSSU's CS Course
+- I’m interested in becoming a programmer
+- Currently trying to learn but failing miserably because of my schedule.
 - Wanna reach me? - Sagemitten@Protonmail.ch / Sean.ballads@gmail.com
 
 <!---
