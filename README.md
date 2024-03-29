@@ -1,6 +1,2 @@
 # Hi,
-- Work in Progress, currently trying to study HTML/CSS, React, Python, and C#
-<!---
-ballads2110/ballads2110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Work in Progress, currently studying C# and Python, holding HTML/CSS, Ruby, & frameworks on standby.
