@@ -1,2 +1,2 @@
 # Hi,
-- Work in Progress, currently studying C# and Python, holding HTML/CSS, Ruby, & frameworks on standby.
+- Work in Progress, currently studying C# and Python. Holding HTML/CSS, Ruby, & frameworks on standby.
