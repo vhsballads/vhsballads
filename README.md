@@ -31,8 +31,8 @@ Here are some projects I've worked on:
 
 ## Get in Touch
 
-- LinkedIn: []
-- Email: []
+- [LinkedIn](https://www.linkedin.com/in/bastille/)
+- [Email](mailto:sean.ballads@gmail.com)
 
 ## Hobbies
 
