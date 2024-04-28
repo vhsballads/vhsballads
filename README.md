@@ -10,7 +10,6 @@ I'm a High School CompSci student with a deep interest in software development. 
 
 - Languages: Python, C#, Java, HTML, CSS
 - Tools/Technologies: VS Code, Visual Studio, GitHub
-- Soft Skills: Collaboration, Communication , []
 
 <!---
 ## Projects
