@@ -1,4 +1,4 @@
-# Hello, I'm [Sean!](https://github.com/vhsballads) 👋
+# Hello, I'm [Sena!](https://github.com/vhsballads) 👋
 
 Aspiring Software Developer, Currently a High School Student studying Communications Technology & Computer Science.
 
