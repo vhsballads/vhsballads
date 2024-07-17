@@ -4,7 +4,7 @@ Aspiring Software Developer, Currently a High School Student studying Communicat
 
 ## About Me
 
-I'm currently a student in my last year of high school and with a deep interest in software development. I love to explore new technologies and solve real-world problems through code, especially given that in my background, I had to deal with a lot of these problems firsthand. Currently, I'm focusing on Object-Oriented Programming & Python, with hopes to diversify my abilities into frameworks & various tools.
+As of currently, I’m a student in my last year of high school at Archbishop O’Leary. My name is Sena and I hold a deep interest in software development. I love to explore new technologies and solve real-world problems through code, especially given that in my background, I had to deal with a lot of these problems firsthand. Currently, I'm focusing on Object-Oriented Programming & front-end development, with hopes to diversify my abilities into frameworks & various tools.
 
 ## Skills
 
