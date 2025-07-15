@@ -1,27 +1,9 @@
 # Hello, I'm [Sena!](https://github.com/vhsballads) 👋
 
-Aspiring Software Developer, Currently a High School Student studying Communications Technology & Computer Science.
-
-## About Me
-
-As of currently, I’m a student in my last year of high school at Archbishop O’Leary. My name is Sena and I hold a deep interest in software development. I love to explore new technologies and solve real-world problems through code, especially given that in my background, I had to deal with a lot of these problems firsthand. Currently, I'm focusing on Object-Oriented Programming & front-end development, with hopes to diversify my abilities into frameworks & various tools.
-
 ## Skills
 
-- Languages: Python, C#, Java, HTML, CSS
-- Tools/Technologies: VS Code, Visual Studio, GitHub
-
-<!---
-## Projects
-
-Here are some projects I've worked on:
-
-- [Project 1 Name](link): Brief description
-- [Project 2 Name](link): Brief description
-- ...
---->
-
-<!--- --- (UPCOMING PROJECTS?) --- --->
+- Languages: Python, HTML, C#, CSS
+- Tools/Technologies: VS Code, Visual Studio, Linux, Github
 
 ## Education
 
