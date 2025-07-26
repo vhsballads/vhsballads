@@ -2,8 +2,8 @@
 
 ## Skills
 
-- Languages: Python, HTML, C#, CSS
-- Tools/Technologies: VS Code, Visual Studio, Linux, Github
+- Languages: Python, HTML, CSS, Java (Trying to learn Nix)
+- Tools/Technologies: VS Code, Linux
 
 ## Education
 
