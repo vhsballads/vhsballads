@@ -1,6 +1,6 @@
 # Hello, I'm [Sena!](https://github.com/vhsballads) 👋
 
-I'm a student recently graduated from Archbishop O'Leary HS, in Edmonton, AB &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1643515928/19474/canada.gif?1643515928" height=25/>&nbsp;.
+I'm a student in my first year of studies at Grant MacEwan University, in Edmonton, AB &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1643515928/19474/canada.gif?1643515928" height=25/>&nbsp;.
 I like tinkering with Computers in a way or two, but I mostly just plan to use this account for my dotfiles.
 
 ## I use...
@@ -8,8 +8,9 @@ I like tinkering with Computers in a way or two, but I mostly just plan to use t
 
 ## Education
 
-- Center for Arab-West Understanding LC, High School, 2021-23
-- Archbishop O'Leary HS, High School, 2024-25
+- Center for Arab-West Understanding LC, High School, 2021 to 2023
+- Archbishop O'Leary HS, High School, 2024 to 2025
+- Grant MacEwan University, Bachelor of Science, 2025 to ~2030.
 
 ## Get in Touch
 
