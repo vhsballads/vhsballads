@@ -1,4 +1,4 @@
-# Hello, I'm [Sena!](https://github.com/vhsballads) 👋
+# Hello, I'm [Sena!](https://orientale.ca/) 👋
 
 I'm a student in my first year of studies at Grant MacEwan University, in Edmonton, AB &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1643515928/19474/canada.gif?1643515928" height=25/>&nbsp;.
 I like tinkering with Computers in a way or two, but I mostly just plan to use this account for my dotfiles.
