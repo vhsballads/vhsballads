@@ -1,7 +1,8 @@
 # Hello, I'm [Sena!](https://orientale.ca/) 👋
 
-I'm a student in my first year of studies at Grant MacEwan University, in Edmonton, AB &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1643515928/19474/canada.gif?1643515928" height=25/>&nbsp;. > I spend most of my time in terminals, browsers, and photo editors; into linux, opsec, workflow optimization, foss, and the politics of the internet. I'm really interested in how technology shapes and is shaped by politics. Photography keeps me sane.
-## Day-to-day tools
+I'm a student in my first year of studies at Grant MacEwan University, in Edmonton, AB &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1643515928/19474/canada.gif?1643515928" height=25/>&nbsp;. My unemployed days pass by in terminals, browsers, and photo editors; I like linux, opsec, workflow optimization, foss, cybersecurity, and several other buzzwords you can insert here. I'm really interested in how technology shapes and is shaped by politics, and whenever it gets exhausting to think about that; Photography keeps me sane.
+
+## Funny Magic Man Tools
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#) 
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat-square)	
 [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=flat-square)](#) 
@@ -12,23 +13,23 @@ I'm a student in my first year of studies at Grant MacEwan University, in Edmont
 
 ## Education
 
-\- Center for Arab-West Understanding LC, High School, 2021 to 2023
-\- Archbishop O'Leary HS, High School, 2024 to 2025
-\- Grant MacEwan University, Bachelor of Science, 2025 to ~2030.
+-- Center for Arab-West Understanding LC, High School, 2021 to 2023
+-- Archbishop O'Leary HS, High School, 2024 to 2025
+-- Grant MacEwan University, Bachelor of Science, 2025 to ~2030.
 
 ## Get in Touch
 
-\- [LinkedIn](https://www.linkedin.com/in/bastille/)
-\- [Email](mailto:sean.ballads@gmail.com)
+-- [LinkedIn](https://www.linkedin.com/in/bastille/)
+-- [Email](mailto:sean.ballads@gmail.com)
 
 ## Hobbies
 
 Apart from coding, here's some of my hobbies and interests.
-\- Literature (Franz Kafka, Fyodor Dostoevsky, Victor Hugo, Frank Herbert, etc.)
-\- Art (PQHAUS, Caravaggio, Mariusz Lewandowski, etc.)
-\- Photography (Aidan Zamiri, Dan Eldon)
-\- Chess
-\- Music (PinkPantheress, Bladee, Men I Trust, ian, Bach, Chopin, etc.)
+-- Literature (Franz Kafka, Fyodor Dostoevsky, Victor Hugo, Frank Herbert, etc.)
+-- Art (PQHAUS, Caravaggio, Mariusz Lewandowski, etc.)
+-- Photography (Aidan Zamiri, Dan Eldon)
+-- Chess
+-- Music (PinkPantheress, Bladee, Men I Trust, ian, Bach, Chopin, etc.)
 
 Feel free to reach out to discuss anything, or just to connect.
 
